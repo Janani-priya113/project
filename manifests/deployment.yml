@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: backend-container
-          image: jananipriya2423/backend-app:20250429054341
+          image: jananipriya2423/backend-app:20250429090351
           ports:
             - containerPort: 8088  # Updated to match the port Spring Boot app is using
 ---
